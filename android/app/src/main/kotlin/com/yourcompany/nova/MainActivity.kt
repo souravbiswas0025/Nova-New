@@ -1,6 +1,5 @@
-package com.yourcompany.nova
+package com.example.nova
 
 import io.flutter.embedding.android.FlutterActivity
 
 class MainActivity: FlutterActivity() {
-}
